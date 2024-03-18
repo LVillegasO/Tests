@@ -3,6 +3,8 @@
 # clan space
 rm(list=ls())
 
-# install packages required
+# install/read packages required
+library(ggplot2)
+library(dplyr)
 
 # connect to path for data
