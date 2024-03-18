@@ -1,0 +1,8 @@
+# I am just writing things and hoping intuition makes this all make sense
+
+# clan space
+rm(list=ls())
+
+# install packages required
+
+# connect to path for data
